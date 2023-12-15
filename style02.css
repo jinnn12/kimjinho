@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+header{
+    margin: 0 auto;
+    width: 1100px;
+    height: 100px;
+    background: url(img/logo.png);
+}
+section{
+    margin: 0 auto;
+    width: 1100px;
+    height: 4390px;
+
+
+
+    
+
+}
+.inbox1{
+    width: 1100px;
+    height: 744px;
+
+
+
+
+
+}
+
+.sb1{
+    /* position: relative; */
+    position: absolute;
+    padding-top: 80px;
+
+}
+.sb2{
+    width: 654px;
+    height: 477px;
+    font-family: 'Noto Sans';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 584px;
+    line-height: 20px;
+    /* padding-bottom: 451px; */
+
+    padding-top: 253px;
+
+
+    position: absolute;
+    z-index: 1000;
+    /* background-color: blue;
+    opacity: calc(50%); */
+}
+.sb3{    
+    padding-top: 303px;
+    position: absolute;
+    z-index: 1000;
+    padding-top: 383px;
+    padding-left: 584px;
+    font-size: 15px;
+    font-weight: 300;
+
+
+}
+
+
+
+
+.menu{
+    position: absolute;
+    padding-top: 103px;
+    right: 18%;
+    /* z-index: 2000; */
+
+    z-index: 2000;
+
+}
+
+.inbox3{
+    font-family: 'Noto Sans';
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 200;
+}
+
+footer{
+    width: 1100px;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.copy{
+    color: white;
+    margin-left: 758px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding-top: 40px;
+        }
+
+
+

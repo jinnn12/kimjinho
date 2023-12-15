@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+header{
+    margin: 0 auto;
+    width: 1100px;
+    height: 100px;
+    background: url(img/logo.png);
+}
+section{
+    margin: 0 auto;
+    width: 1100px;
+    height: 3787px;
+
+
+}
+
+.inbox1{
+    width: 1100px;
+    height: 880px;
+
+}
+
+.inbox2{
+    left: 50%;
+}
+
+.sb1{
+    padding-top: 23px;
+
+}
+.sb2{
+    width: 654px;
+    height: 477px;
+    font-family: 'Noto Sans';
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    /* padding-left: 81px; */
+    padding-top: 160px;
+
+}
+.sb3{
+    font-family: 'Noto Sans';
+    font-size: 30px;
+    font-weight: 300;
+    width: 1100px;
+    height: 333px;
+
+
+}
+footer{
+    width: 1100px;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+
+}
+.copy{
+    color: white;
+    margin-left: 758px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding-top: 40px;
+        }
+/* .bt1 {padding-left: 636px; }
+.bt2{padding-left: 679px; }
+.bt3{padding-left: 619px; } */
+
+.menu{
+    padding-top: 3px;
+    float: right;
+}
+
